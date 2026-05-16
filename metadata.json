@@ -1,0 +1,6 @@
+{
+  "name": "CalorieSnap",
+  "description": "Snap a photo of your meal and get an AI-powered calorie estimate. Track your intake with daily, weekly, and monthly reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
